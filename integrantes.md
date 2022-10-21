@@ -1,5 +1,5 @@
-# Integrantes __Grupo N°6__ 
-## Diplomado DevOps Usach
+# <span style="color: blue;">Integrantes __Grupo N°6__</span>
+## <span style="color: cyan;">Diplomado DevOps Usach</span>
 
 
 | Nombre | Apellido | Usuario Git |
